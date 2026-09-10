@@ -13,3 +13,9 @@ A repository tracking my problem-solving journey on [LeetCode](https://leetcode.
 * **100% Human-Written:** Every line of code is written independently without the use of AI tools.
 
 ---
+
+## 📊 Progress Tracker
+
+| # | Title | Solution | Difficulty | Language |
+| :---: | :--- | :---: | :---: | :---: |
+| 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./1-two-sum/) | `Easy` | C++, TypeScript |
