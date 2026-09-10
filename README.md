@@ -19,3 +19,4 @@ A repository tracking my problem-solving journey on [LeetCode](https://leetcode.
 | # | Title | Solution | Difficulty | Language |
 | :---: | :--- | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./1-two-sum/) | `Easy` | C++, TypeScript |
+| 0002 | [Add Two Numbers](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](./2-add-two-numbers/) | `Medium` | C++ |
