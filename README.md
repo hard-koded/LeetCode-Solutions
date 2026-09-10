@@ -20,3 +20,4 @@ A repository tracking my problem-solving journey on [LeetCode](https://leetcode.
 | :---: | :--- | :---: | :---: | :---: |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Code](./1-two-sum/) | `Easy` | C++, TypeScript |
 | 0002 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Code](./2-add-two-numbers/) | `Medium` | C++ |
+| 0003 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Code](./3-longest-substring-without-repeating-characters/) | `Medium` | C |
